@@ -1,0 +1,66 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(50, 50)">
+    <!-- Couch -->
+    <rect x="20" y="180" width="260" height="80" rx="10" fill="#f0f0f0" stroke="#000000" stroke-width="2"/>
+    <rect x="20" y="260" width="30" height="20" rx="5" fill="#e0e0e0" stroke="#000000" stroke-width="2"/>
+    <rect x="250" y="260" width="30" height="20" rx="5" fill="#e0e0e0" stroke="#000000" stroke-width="2"/>
+    
+    <!-- Person -->
+    <circle cx="150" cy="160" r="30" fill="#f5f5f5" stroke="#000000" stroke-width="2"/> <!-- Head -->
+    <path d="M140 155 Q145 160 150 155" stroke="#000000" stroke-width="2" fill="none"/> <!-- Mouth -->
+    <circle cx="140" cy="150" r="3" fill="#000000"/> <!-- Left eye -->
+    <circle cx="160" cy="150" r="3" fill="#000000"/> <!-- Right eye -->
+    <path d="M145 145 Q150 140 155 145" stroke="#000000" stroke-width="2" fill="none"/> <!-- Eyebrow -->
+    <rect x="135" y="140" width="30" height="10" rx="5" fill="#f5f5f5" stroke="#000000" stroke-width="0"/> <!-- Hide top of glasses -->
+    <rect x="135" y="140" width="30" height="20" rx="5" fill="none" stroke="#000000" stroke-width="2"/> <!-- Glasses -->
+    <line x1="165" y1="150" x2="175" y2="150" stroke="#000000" stroke-width="2"/> <!-- Glasses arm -->
+    <line x1="135" y1="150" x2="125" y2="150" stroke="#000000" stroke-width="2"/> <!-- Glasses arm -->
+    
+    <!-- Body -->
+    <path d="M150 190 L130 240 L170 240 Z" fill="#C8A2C8" stroke="#000000" stroke-width="2"/> <!-- Shirt -->
+    <rect x="130" y="240" width="40" height="40" fill="#f0f0f0" stroke="#000000" stroke-width="2"/> <!-- Pants -->
+    
+    <!-- Arms -->
+    <path d="M130 200 Q110 210 100 230" stroke="#000000" stroke-width="2" fill="none"/>
+    <path d="M170 200 Q190 210 200 230" stroke="#000000" stroke-width="2" fill="none"/>
+    <circle cx="100" cy="230" r="5" fill="#f5f5f5" stroke="#000000" stroke-width="2"/> <!-- Hand -->
+    <circle cx="200" cy="230" r="5" fill="#f5f5f5" stroke="#000000" stroke-width="2"/> <!-- Hand -->
+    
+    <!-- Laptop -->
+    <rect x="120" y="210" width="60" height="40" rx="2" fill="#333333" stroke="#000000" stroke-width="2"/> <!-- Laptop base -->
+    <rect x="120" y="180" width="60" height="30" rx="2" fill="#333333" stroke="#000000" stroke-width="2"/> <!-- Laptop screen -->
+    <rect x="125" y="185" width="50" height="20" rx="1" fill="#C8A2C8" stroke="#000000" stroke-width="1"/> <!-- Laptop display -->
+    <circle cx="150" cy="225" r="3" fill="#C8A2C8"/> <!-- Laptop button -->
+    
+    <!-- Plants -->
+    <path d="M20 180 C10 160 30 150 40 170" stroke="#000000" stroke-width="2" fill="none"/>
+    <path d="M30 180 C20 150 40 140 50 170" stroke="#000000" stroke-width="2" fill="none"/>
+    <path d="M40 180 C30 160 50 150 60 170" stroke="#000000" stroke-width="2" fill="none"/>
+    
+    <!-- Cat -->
+    <circle cx="240" cy="230" r="15" fill="#333333" stroke="#000000" stroke-width="2"/> <!-- Cat head -->
+    <polygon points="230,220 235,215 240,220" fill="#333333" stroke="#000000" stroke-width="2"/> <!-- Left ear -->
+    <polygon points="250,220 245,215 240,220" fill="#333333" stroke="#000000" stroke-width="2"/> <!-- Right ear -->
+    <circle cx="235" cy="225" r="2" fill="#ffffff"/> <!-- Left eye -->
+    <circle cx="245" cy="225" r="2" fill="#ffffff"/> <!-- Right eye -->
+    <ellipse cx="240" cy="230" rx="3" ry="1" fill="#ffffff"/> <!-- Nose -->
+    <path d="M240 230 L240 235" stroke="#000000" stroke-width="1" fill="none"/> <!-- Mouth line -->
+    <path d="M240 235 L235 238" stroke="#000000" stroke-width="1" fill="none"/> <!-- Left mouth -->
+    <path d="M240 235 L245 238" stroke="#000000" stroke-width="1" fill="none"/> <!-- Right mouth -->
+    <path d="M225 230 Q215 240 220 250" fill="#333333" stroke="#000000" stroke-width="2"/> <!-- Cat body -->
+    <path d="M220 250 L210 245" stroke="#000000" stroke-width="2" fill="none"/> <!-- Tail -->
+    
+    <!-- Light bulb -->
+    <circle cx="150" cy="80" r="15" fill="#ffffcc" stroke="#000000" stroke-width="2"/>
+    <path d="M150 95 L150 110" stroke="#000000" stroke-width="2" fill="none"/>
+    <path d="M145 110 L155 110" stroke="#000000" stroke-width="2" fill="none"/>
+    <path d="M147 115 L153 115" stroke="#000000" stroke-width="2" fill="none"/>
+    
+    <!-- Rays -->
+    <line x1="130" y1="80" x2="120" y2="80" stroke="#000000" stroke-width="2"/>
+    <line x1="170" y1="80" x2="180" y2="80" stroke="#000000" stroke-width="2"/>
+    <line x1="150" y1="60" x2="150" y2="50" stroke="#000000" stroke-width="2"/>
+    <line x1="135" y1="65" x2="125" y2="55" stroke="#000000" stroke-width="2"/>
+    <line x1="165" y1="65" x2="175" y2="55" stroke="#000000" stroke-width="2"/>
+  </g>
+</svg>
