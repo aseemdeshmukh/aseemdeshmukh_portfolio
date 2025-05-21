@@ -20,7 +20,7 @@ export default function RootLayout({
       <head>
         <title>Aseem Deshmukh | Full Stack Developer</title>
         <meta name="description" content="Portfolio of Aseem Deshmukh, Full Stack Developer" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" type="image/png" />
       </head>
       <body className={`${lexend.variable} font-lexend bg-white`}>
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange>
